@@ -15,7 +15,7 @@
       .subtitle { font-family: Arial, sans-serif; font-size: 12px; text-anchor: middle; fill: #666; }
     </style>
     <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
-      <polygon points="0 0, 10 3, 0 6" fill="#333" />
+      <polygon points="0 0, 10 3, 0 6" fill="#333"/>
     </marker>
   </defs>
 
@@ -146,12 +146,12 @@
   <rect x="50" y="640" width="350" height="180" fill="#FAFAFA" stroke="#999" stroke-width="1" rx="5"/>
   <text x="225" y="665" class="text-label" style="font-size: 13px;">Deployment Details</text>
   
-  <text x="65" y="685" class="text-small" style="text-anchor: start; font-size: 11px;">✓ HTTPS enabled via Cloudflare</text>
-  <text x="65" y="700" class="text-small" style="text-anchor: start; font-size: 11px;">✓ Load balancing across 2 backends</text>
-  <text x="65" y="715" class="text-small" style="text-anchor: start; font-size: 11px;">✓ Health checks configured</text>
-  <text x="65" y="730" class="text-small" style="text-anchor: start; font-size: 11px;">✓ Auto-restart with PM2</text>
-  <text x="65" y="745" class="text-small" style="text-anchor: start; font-size: 11px;">✓ MongoDB Atlas for data</text>
-  <text x="65" y="760" class="text-small" style="text-anchor: start; font-size: 11px;">✓ Nginx for static content</text>
-  <text x="65" y="775" class="text-small" style="text-anchor: start; font-size: 11px;">✓ DNS routing via Cloudflare</text>
-  <text x="65" y="790" class="text-small" style="text-anchor: start; font-size: 11px;">✓ Scalable & highly available</text>
+  <text x="65" y="685" class="text-small" style="text-anchor: start; font-size: 11px;">Check HTTPS enabled via Cloudflare</text>
+  <text x="65" y="700" class="text-small" style="text-anchor: start; font-size: 11px;">Check Load balancing across 2 backends</text>
+  <text x="65" y="715" class="text-small" style="text-anchor: start; font-size: 11px;">Check Health checks configured</text>
+  <text x="65" y="730" class="text-small" style="text-anchor: start; font-size: 11px;">Check Auto-restart with PM2</text>
+  <text x="65" y="745" class="text-small" style="text-anchor: start; font-size: 11px;">Check MongoDB Atlas for data</text>
+  <text x="65" y="760" class="text-small" style="text-anchor: start; font-size: 11px;">Check Nginx for static content</text>
+  <text x="65" y="775" class="text-small" style="text-anchor: start; font-size: 11px;">Check DNS routing via Cloudflare</text>
+  <text x="65" y="790" class="text-small" style="text-anchor: start; font-size: 11px;">Check Scalable and highly available</text>
 </svg>
